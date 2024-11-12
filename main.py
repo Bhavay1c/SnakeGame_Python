@@ -1,5 +1,5 @@
 # Bhavay Garg
-# This class is the main class
+# This class is the main class which creates objects of other class and control the game by calling respective methods 
 
 from turtle import Screen
 import time

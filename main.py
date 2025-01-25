@@ -54,9 +54,9 @@ while game_on:
 #         elif snake.head.distance(segment) < 10:
 #             game_on = False
 #             score.game_over()
+ 
 
-
-#     above code can also be written as below using slicing  [start:end:gap]
+#     above code can also be written as below using slicing  [start:end:gap]  
 
     for segment in snake.segments[1:]:
 
